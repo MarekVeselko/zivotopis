@@ -1,0 +1,148 @@
+.kapitola-nadpis{
+  left: 40%;
+  display: inline-block;
+  position: absolute;
+  font-size: 3rem;
+  font-family: 'Patua One', cursive;
+}
+
+
+/********ABOUT ME**********/
+.about-me{
+  background-image: url("images/wood.png");
+  position: relative;
+  padding: 4% 10%;
+  height: 30rem;
+  text-align: center;
+}
+
+.meno{
+  position: absolute;
+  right:35%;
+  top: 35%;
+  font-family: 'Charmonman', cursive;
+  font-size: 5rem;
+  display:inline-block;
+}
+
+.podnadpis{
+  position: absolute;
+  right: 43%;
+  bottom:1%;
+  font-family: 'Libre Barcode 128 Text', cursive;
+  font-size: 3rem;
+  display: inline-block;
+}
+
+
+/**************EDUCATION****************/
+.education{
+padding: 5% 10%;
+margin-bottom: 6%;
+}
+
+.schools{
+  text-align: center;
+  position: relative;
+  right:3%;
+  top: 5rem;
+  padding: 5% 0;
+}
+
+.edu-podnadpis{
+  font-family: 'Roboto Slab', serif;
+  font-size: 2.3rem;
+  color:#323232;
+
+}
+
+.skola{
+  color:#fe346e;
+  font-family: 'Roboto Slab', serif;
+font-size: 1.5rem;
+}
+
+.titul{
+  color:#204051;
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+}
+
+/**************Computer Languages***********/
+.computer-languages{
+  position: relative;
+  text-align: center;
+padding: 4% 10%;
+background-image: url("images/wood.png");
+}
+
+.computer-languages .kapitola-nadpis{
+  left:30%;
+}
+
+#it{
+  padding:10%;
+}
+
+.img-lang{
+  height: 256px;
+  width: 256px;
+}
+
+.img-nodejs{
+  height:256px;
+}
+
+/************LANGUAGES**********/
+.languages{
+  position: relative;
+  text-align: center;
+padding: 4% 10%;
+}
+
+.jazyk{
+  padding: 10% 0 5% 0;
+  position:relative;
+  right: 3%;
+}
+
+/*******CONTACT************/
+.contact{
+  position: relative;
+  text-align: center;
+padding: 2% 10% 0 10%;
+height: 15rem;
+background-image: url("images/wood.png");
+}
+
+.contact .kapitola-nadpis{
+  right: 47%;
+}
+
+.icons{
+  position: absolute;
+bottom: 8%;
+left: 35%;
+}
+
+.ikona{
+margin: 0 2rem;
+}
+
+.bublina{
+  position: absolute;
+  bottom: 15%;
+  right: 33%;
+height: 180px;
+width: 400px;
+display:none;
+}
+
+.bublina-mail{
+    position: absolute;
+    bottom: 15%;
+    right: 39%;
+  height: 180px;
+  width: 400px;
+display:none;
+  }
